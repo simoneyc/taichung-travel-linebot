@@ -100,3 +100,4 @@ The repository includes an empty `.env.example` file. Service credentials should
 ## Project Credits
 
 This repository is based on the class team project [IaminTaichung](https://github.com/yunhsuan0510/IaminTaichung)
+
