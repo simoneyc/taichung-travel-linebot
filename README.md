@@ -97,3 +97,6 @@ The repository includes an empty `.env.example` file. Service credentials should
 | `ADMIN_USER_ID` | Optional LINE user ID for place suggestion notifications |
 | `PORT` | Optional application port; defaults to `5000` |
 
+## Project Credits
+
+This repository is based on the class team project [IaminTaichung](https://github.com/yunhsuan0510/IaminTaichung)
